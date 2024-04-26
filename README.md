@@ -37,14 +37,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-how i center my div
+how i center my img and text 
 ```body{
   display: flex;
   justify-content: center;
   align-items: center;
 }```
 
-how i center align text area
 ```.main{
 text-align: center;
 display: flex;
