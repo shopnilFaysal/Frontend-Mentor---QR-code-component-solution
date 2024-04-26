@@ -13,9 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-#Overview
+## Overview
 
-#Screenshot
+### Screenshot
 
 ![](./screenshot.png)
 
@@ -39,17 +39,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 how i center my img and text
 
-```body{
+body{
   display: flex;
   justify-content: center;
-  align-items: center;}```
+  align-items: center;}
 
-```.main{
+.main{
 text-align: center;
 display: flex;
 align-items: center;
 justify-content: center;
-flex-direction: column;}```
+flex-direction: column;}
 
 
 ## Author
