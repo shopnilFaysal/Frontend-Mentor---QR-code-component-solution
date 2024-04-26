@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://shopnilfaysal.github.io/Frontend-Mentor---QR-code-component-solution/)
+- Live Site URL: [Add live site URL here](https://shopnilfaysal.github.io/Frontend-Mentor---QR-code-component-solution/)
 
 ## My process
 
@@ -54,7 +54,7 @@ flex-direction: column;
 }```
 
 
-## Author
+### Author
 
 - Frontend Mentor - [@shopnilFaysal](https://www.frontendmentor.io/profile/shopnilFaysal)
 - Facebook - [@faysalibn.mustafa](https://www.facebook.com/faysalibn.mustafa/)
